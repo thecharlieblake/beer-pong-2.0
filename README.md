@@ -3,7 +3,7 @@ A Browser scoreboard for beer pong, which connects to a LIFX wifi bulb and plays
 music
 
 ## Running the App
-To run the app, use:
+To run the app, first `cd` into `react-app`, then use:
 ```
 npm run start
 ```
